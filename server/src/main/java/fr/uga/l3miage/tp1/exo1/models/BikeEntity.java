@@ -10,7 +10,10 @@ import fr.uga.l3miage.tp1.exo1.enums.ShifterType;
 import javax.persistence.*;
 import java.time.LocalDate;
 @Entity
-
+// héritage ?
+// getter et setter ?
+// enlever les @column ?
+// enlever le enumType.ORDINAL ?
 
 public class BikeEntity {
 
